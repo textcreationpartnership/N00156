@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <body>
          <div type="order">
-            <pb facs="tcp:000215_0000_0FA36D15C9A6EAB0"/>
-            <pb facs="tcp:000215_0001_0FA36D1688B629E0"/>
+            <pb facs="unknown:000215_0000_0FA36D15C9A6EAB0"/>
+            <pb facs="unknown:000215_0001_0FA36D1688B629E0"/>
             <head>
                <figure/> AT A COUNCIL Held at <hi>BOSTON</hi>
                <date>April the 4<hi>th.</hi> 1676.</date>
